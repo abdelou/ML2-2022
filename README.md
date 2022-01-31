@@ -51,3 +51,20 @@ This is a repository to organize the teaching material for [Big Data Analytics](
   - Lecture 9 (Apr. 20): 
   - Lab 12 (Apr. 22): 
 
+- Week 10 (Apr. 25-29).
+  - Lecture 10 (Apr. 25): 
+  - Lab 13 (Apr. 27): 
+
+- Week 11 (May 2-6).
+  - Lecture 11 (May 3): 
+  - Lecture 12 (May 4): 
+  - Lab 14 (May 5): 
+
+- Week 12 (May 9-14).
+  - Lecture 13 (May 9): 
+  - Lab 15 (May 10): 
+  - Lecture 14 (May 13): 
+
+- Week 13 (May 16-20).
+  - Lecture 15 (May 16): 
+
