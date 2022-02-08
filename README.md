@@ -1,6 +1,6 @@
 # Machine Learning II (UMONS)
 
-This is a repository to organize the teaching material for [Big Data Analytics](http://applications.umons.ac.be/web/en/pde/2020-2021/aa/S-INFO-075.htm), to be taught by [Souhaib Ben Taieb](http://www.souhaib-bentaieb.com).
+This is a repository to organize the teaching material for [Machine Learning II](http://applications.umons.ac.be/web/fr/pde/2021-2022/aa/S-INFO-075.htm), to be taught by [Souhaib Ben Taieb](http://www.souhaib-bentaieb.com).
 
 # Course links
 
@@ -10,8 +10,8 @@ This is a repository to organize the teaching material for [Big Data Analytics](
 # Content
 
 - Week 1 (Feb. 7-11). 
-  - Lecture 1 (Feb. 8): 
-  - Lecture 2 (Feb. 9): 
+  - Lecture 1 (Feb. 8): [Introduction and the perceptron learning model](./slides/1-bda-perceptron.pdf)
+  - Lecture 2 (Feb. 9): [The learning problem](./slides/2-bda-learning-1.pdf)
 
 - Week 2 (Feb. 14-18). 
   - Lab 1 (Feb. 15): 
