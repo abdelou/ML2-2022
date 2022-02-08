@@ -10,8 +10,8 @@ This is a repository to organize the teaching material for [Machine Learning II]
 # Content
 
 - Week 1 (Feb. 7-11). 
-  - Lecture 1 (Feb. 8): [Introduction and the perceptron learning model](./slides/1-bda-perceptron.pdf)
-  - Lecture 2 (Feb. 9): [The learning problem](./slides/2-bda-learning-1.pdf)
+  - Lecture 1 (Feb. 8): Introduction and the perceptron learning model [[Slides (PDF)]](./slides/1-bda-perceptron.pdf)
+  - Lecture 2 (Feb. 9): The learning problem [[Slides (PDF)]](./slides/2-bda-learning-1.pdf)
 
 - Week 2 (Feb. 14-18). 
   - Lab 1 (Feb. 15): 
