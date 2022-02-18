@@ -16,7 +16,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
 - Week 2 (Feb. 14-18). 
   - Lab 1 (Feb. 15): The perceptron learning model [[lab (PDF)]](./labs/The_perceptron_learning_model.pdf)
   - Lab 2 (Feb. 17): The perceptron learning model (continued) [[Solution]](https://colab.research.google.com/drive/1_-ZwYVt2FbRdqgHzJQNyWAUn-vOt_ODl?usp=sharing)
-  - Lecture 3 (Feb. 18): 
+  - Lecture 3 (Feb. 18): [[Slides (PDF)]](./slides/2-bda-learning-2.pdf) 
 
 - Week 3 (Feb. 21-25).
   - Lab 3 (Feb. 22): 
