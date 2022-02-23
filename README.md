@@ -20,11 +20,11 @@ This is a repository to organize the teaching material for [Machine Learning II]
 
 - Week 3 (Feb. 21-25).
   - Lab 3 (Feb. 22): The learning problem [[lab (PDF)]](./labs/The_learning_problem.pdf)
-  - Lecture 4 (Feb. 23): The learning problem (proof growth function polynomial) [[Slides (PDF)]](./slides/2-bda-learning-3.pdf) 
+  - Lecture 4 (Feb. 23): Learning theory  (proof growth function polynomial) [[Slides (PDF)]](./slides/2-bda-learning-3.pdf) 
 
 
 - Week 4 (Feb. 22 - Mar. 4).
-  - Lecture 5 (Mar. 2): 
+  - Lecture 5 (Mar. 2): Learning theory  (The VC dimension) [[Slides (PDF)]](./slides/2-bda-learning-4.pdf) 
   - Lab 5 (Mar. 3): 
   - Lecture 6 (Mar. 4): 
 
