@@ -16,14 +16,15 @@ This is a repository to organize the teaching material for [Machine Learning II]
 - Week 2 (Feb. 14-18). 
   - Lab 1 (Feb. 15): The perceptron learning model [[lab (PDF)]](./labs/The_perceptron_learning_model.pdf)
   - Lab 2 (Feb. 17): The perceptron learning model (continued) [[Solution]](https://colab.research.google.com/drive/1_-ZwYVt2FbRdqgHzJQNyWAUn-vOt_ODl?usp=sharing)
-  - Lecture 3 (Feb. 18): [[Slides (PDF)]](./slides/2-bda-learning-2.pdf) 
+  - Lecture 3 (Feb. 18): Learning theory (dichotomies, growth function, break point) [[Slides (PDF)]](./slides/2-bda-learning-2.pdf) 
 
 - Week 3 (Feb. 21-25).
   - Lab 3 (Feb. 22): The learning problem [[lab (PDF)]](./labs/The_learning_problem.pdf)
-  - Lecture 4 (Feb. 23): 
+  - Lecture 4 (Feb. 23): Learning theory  (proof growth function polynomial) [[Slides (PDF)]](./slides/2-bda-learning-3.pdf) 
+
 
 - Week 4 (Feb. 22 - Mar. 4).
-  - Lecture 5 (Mar. 2): 
+  - Lecture 5 (Mar. 2): Learning theory  (The VC dimension) [[Slides (PDF)]](./slides/2-bda-learning-4.pdf) 
   - Lab 5 (Mar. 3): 
   - Lecture 6 (Mar. 4): 
 
