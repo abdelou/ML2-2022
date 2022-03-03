@@ -25,7 +25,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
 
 - Week 4 (Feb. 22 - Mar. 4).
   - Lecture 5 (Mar. 2): Learning theory  (The VC dimension) [[Slides (PDF)]](./slides/2-bda-learning-4.pdf) 
-  - Lab 5 (Mar. 3): 
+  - Lab 5 (Mar. 3): The learning problem (continued) [[Solution]](https://colab.research.google.com/drive/1cZQa1a-ofAFstVA7nfXjvIHnHSLSpqix?usp=sharing)
   - Lecture 6 (Mar. 4): 
 
 - Week 5 (Mar. 8 - Mar. 11).
