@@ -24,42 +24,42 @@ This is a repository to organize the teaching material for [Machine Learning II]
 
 
 - Week 4 (Feb. 22 - Mar. 4).
-  - Lecture 5 (Mar. 2): Learning theory  (The VC dimension, Bias and variance analysis) [[Slides (PDF)]](./slides/2-bda-learning-4.pdf) 
+  - Lecture 5 (Mar. 2): Learning theory  (The VC dimension, Bias and variance analysis) [[Slides (PDF)]](./slides/2-bda-learning-4.pdf)  [[Slides (PDF)]](./slides/2-bda-learning-5.pdf) 
   - Lab 5 (Mar. 3): The learning problem (continued) [[Solution]](https://colab.research.google.com/drive/1cZQa1a-ofAFstVA7nfXjvIHnHSLSpqix?usp=sharing)
   - Lab 6 (Mar. 4): Learning theory [[lab (PDF)]](./labs/Learning_theory.pdf)
 
 - Week 5 (Mar. 8 - Mar. 11).
-  - Lecture 6 (Mar. 8): Linear models
-  - Lecture 7 (Mar. 9): 
-  - Lab 7 (Mar. 10): Learning theory
+  - Lecture 6 (Mar. 8): Linear models [[Slides (PDF)]](./slides/3-linear-model.pdf) 
+  - Lecture 7 (Mar. 9): Gradient descent [[Slides (PDF)]](./slides/4-gradient-descent.pdf)  
+  - Lab 7 (Mar. 10): Learning theory (continued)
 
 - Week 6 (Mar. 14 - Mar. 18).
-  - Lecture 8 (Mar. 14): 
-  - Lab 8 (Mar. 16): 
-  - Lab 9 (Mar. 18): 
+  - Lab 8 (Mar. 14): 
+  - Lab 9 (Mar. 16): 
+  - Lab 10 (Mar. 18): 
 
 - Week 7 (Mar. 21-25).
-  - Lecture 9 (Mar. 21): 
-  - Lab 10 (Mar. 23): 
+  - Lecture 8 (Mar. 21): 
+  - Lab 11 (Mar. 23): 
 
 - Week 8 (Mar. 28 - Apr. 1).
-  - Lecture 10 (Mar. 30): 
-  - Lab 11 (Mar. 31): 
+  - Lecture 9 (Mar. 30): 
+  - Lab 12 (Mar. 31): 
 
 - **Spring Break**
 
 - Week 9 (Apr. 18-22).
   - Lecture 11 (Apr. 20): 
-  - Lab 12 (Apr. 22): 
+  - Lab 13 (Apr. 22): 
 
 - Week 10 (Apr. 25-29).
   - Lecture 12 (Apr. 25): 
-  - Lab 13 (Apr. 27): 
+  - Lab 14 (Apr. 27): 
 
 - Week 11 (May 2-6).
   - Lecture 13 (May 3): 
   - Lecture 14 (May 4): 
-  - Lab 14 (May 5): 
+  - Lab 15 (May 5): 
 
 - Week 12 (May 9-14).
   - Lecture 15 (May 9): 
