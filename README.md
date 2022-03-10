@@ -31,7 +31,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
 - Week 5 (Mar. 8 - Mar. 11).
   - Lecture 6 (Mar. 8): Linear models [[Slides (PDF)]](./slides/3-linear-model.pdf) 
   - Lecture 7 (Mar. 9): Gradient descent [[Slides (PDF)]](./slides/4-gradient-descent.pdf)  
-  - Lab 7 (Mar. 10): Learning theory (continued)
+  - Lab 7 (Mar. 10): Learning theory (continued) [[Solution]](./labs/Learning_theory_solution.pdf)
 
 - Week 6 (Mar. 14 - Mar. 18).
   - Lab 8 (Mar. 14): 
