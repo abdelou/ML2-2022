@@ -34,7 +34,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lab 7 (Mar. 10): Learning theory (continued) [[Solution]](./labs/Learning_theory_solution.pdf)
 
 - Week 6 (Mar. 14 - Mar. 18).
-  - Lab 8 (Mar. 14): 
+  - Lab 8 (Mar. 14): Linear regression [[lab (PDF)]](./labs/Linear_regression.pdf)
   - Lab 9 (Mar. 16): 
   - Lab 10 (Mar. 18): 
 
