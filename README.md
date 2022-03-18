@@ -36,7 +36,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
 - Week 6 (Mar. 14 - Mar. 18).
   - Lab 8 (Mar. 14): Linear regression [[lab (PDF)]](./labs/Linear_regression.pdf)
   - Lab 9 (Mar. 16): Linear regression (continued)
-  - Lab 10 (Mar. 18): Linear regression (continued) [[Solution]](./labs/Linear_regression.pdf)
+  - Lab 10 (Mar. 18): Linear regression (continued) [[Solution]](./labs/Linear_regression_solution.pdf)
 
 - Week 7 (Mar. 21-25).
   - Lecture 8 (Mar. 21): 
