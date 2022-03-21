@@ -54,7 +54,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
 
 - Week 10 (Apr. 25-29).
   - Lecture 11 (Apr. 25): 
-  - Lab 14 (Apr. 27): 
+  - Lab 14 (Apr. 27): Neural Networks
 
 - Week 11 (May 2-6).
   - Lecture 12 (May 3): 
