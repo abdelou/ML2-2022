@@ -39,33 +39,32 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lab 10 (Mar. 18): Linear regression (continued) [[Solution]](./labs/Linear_regression_solution.pdf)
 
 - Week 7 (Mar. 21-25).
-  - Lecture 8 (Mar. 21): 
-  - Lab 11 (Mar. 23): 
+  - Lecture 8 (Mar. 21): Neural Networks
+  - Lab 11 (Mar. 23): Linear classification
 
 - Week 8 (Mar. 28 - Apr. 1).
-  - Lecture 9 (Mar. 30): 
-  - Lab 12 (Mar. 31): 
+  - Lecture 9 (Mar. 30): Deep Neural Networks
+  - Lab 12 (Mar. 31):  Linear classification
 
 - **Spring Break**
 
 - Week 9 (Apr. 18-22).
-  - Lecture 11 (Apr. 20): 
-  - Lab 13 (Apr. 22): 
+  - Lecture 10 (Apr. 20): 
+  - Lab 13 (Apr. 22): Neural Networks
 
 - Week 10 (Apr. 25-29).
-  - Lecture 12 (Apr. 25): 
+  - Lecture 11 (Apr. 25): 
   - Lab 14 (Apr. 27): 
 
 - Week 11 (May 2-6).
-  - Lecture 13 (May 3): 
-  - Lecture 14 (May 4): 
+  - Lecture 12 (May 3): 
+  - Lecture 13 (May 4): 
   - Lab 15 (May 5): 
 
 - Week 12 (May 9-14).
-  - Lecture 15 (May 9): 
+  - Lecture 14 (May 9): 
   - Lab 15 (May 10): 
-  - Lecture 16 (May 13): 
+  - Lecture 15 (May 13): 
 
-- Week 13 (May 16-20).
-  - Lecture 17 (May 16): 
+
 
