@@ -39,7 +39,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lab 10 (Mar. 18): Linear regression (continued) [[Solution]](./labs/Linear_regression_solution.pdf)
 
 - Week 7 (Mar. 21-25).
-  - Lecture 8 (Mar. 21): Neural Networks
+  - Lecture 8 (Mar. 21): Neural Networks [[Slides (PDF)]](./slides/5-neural-networks.pdf)  
   - Lab 11 (Mar. 23): Linear classification
 
 - Week 8 (Mar. 28 - Apr. 1).
@@ -64,7 +64,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
 - Week 12 (May 9-14).
   - Lecture 14 (May 9): 
   - Lab 15 (May 10): 
-  - Lecture 15 (May 13): 
+  - Lecture 15 (May 13): Project presentation
 
 
 
