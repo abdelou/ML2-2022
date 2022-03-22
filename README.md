@@ -44,7 +44,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - [Assignment I](./assignments/Assignment1.pdf)  [(Solution)](./assignments/assignment1-solution.ipynb)
 
 - Week 8 (Mar. 28 - Apr. 1).
-  - Lecture 9 (Mar. 30): Deep Neural Networks
+  - Lecture 9 (Mar. 31): Deep Neural Networks
   - Lab 12 (Mar. 31):  Linear classification
 
 - **Spring Break**
