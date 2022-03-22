@@ -40,7 +40,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
 
 - Week 7 (Mar. 21-25).
   - Lecture 8 (Mar. 21): Neural Networks
-  - Lab 11 (Mar. 23): Linear classification
+  - Lab 11 (Mar. 23): Linear classification [[lab (PDF)]](./labs/Linear_classification.pdf)
   - [Assignment I](./assignments/Assignment1.pdf)  [(Solution)](./assignments/assignment1-solution.ipynb)
 
 - Week 8 (Mar. 28 - Apr. 1).
