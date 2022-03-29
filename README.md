@@ -65,7 +65,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
 - Week 12 (May 9-14).
   - Lecture 14 (May 9): 
   - Lab 15 (May 10): 
-  - Lecture 15 (May 13): Project presentation
+  - Lecture 15 (May 12): Project presentation
 
 
 
