@@ -45,7 +45,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
   
 - Week 8 (Mar. 28 - Apr. 1).
   - Lecture 9 (Mar. 31): Deep Neural Networks
-  - Lab 12 (Mar. 31):  Linear classification
+  - Lab 12 (Mar. 31):  Linear classification (continued) [[Solution]](https://colab.research.google.com/drive/1TtGIQ6rQRHte8OFK8K5r-MCbdF0cwKcW?usp=sharing)
 
 - **Spring Break**
 
