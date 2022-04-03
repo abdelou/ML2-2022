@@ -44,17 +44,17 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - [Assignment I](./assignments/Assignment1.pdf)  [(Solution)](./assignment/assignment_I/assignment1-solution.ipynb)
   
 - Week 8 (Mar. 28 - Apr. 1).
-  - Lecture 9 (Mar. 31): Deep Neural Networks
+  - Lecture 9 (Mar. 31): Backpropagation
   - Lab 12 (Mar. 31):  Linear classification (continued) [[Solution]](https://colab.research.google.com/drive/1TtGIQ6rQRHte8OFK8K5r-MCbdF0cwKcW?usp=sharing)
 
 - **Spring Break**
 
 - Week 9 (Apr. 18-22).
-  - Lecture 10 (Apr. 20): 
+  - Lecture 10 (Apr. 19): Backpropagation (continued)
   - Lab 13 (Apr. 22): Neural Networks
 
 - Week 10 (Apr. 25-29).
-  - Lecture 11 (Apr. 25): 
+  - Lecture 11 (Apr. 25): Deep Neural Networks
   - Lab 14 (Apr. 27): Neural Networks
 
 - Week 11 (May 2-6).
