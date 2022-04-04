@@ -46,7 +46,8 @@ This is a repository to organize the teaching material for [Machine Learning II]
 - Week 8 (Mar. 28 - Apr. 1).
   - Lecture 9 (Mar. 31): Backpropagation
   - Lab 12 (Mar. 31):  Linear classification (continued) [[Solution]](https://colab.research.google.com/drive/1TtGIQ6rQRHte8OFK8K5r-MCbdF0cwKcW?usp=sharing)
-
+  - [Assignment II](./assignments/assignment_II/Assignment_II.pdf)   [(Solution)](./assignments/assignment_II/assignment2-solution.ipynb)  [(Solution exercise 4)](./assignments/assignment_II/assignment2-ex4_sol.pdf) 
+  
 - **Spring Break**
 
 - Week 9 (Apr. 18-22).
