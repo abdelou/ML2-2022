@@ -25,43 +25,43 @@ This is a repository to organize the teaching material for [Machine Learning II]
 
 - Week 4 (Feb. 22 - Mar. 4).
   - Lecture 5 (Mar. 2): Learning theory  (The VC dimension, Bias and variance analysis) [[Slides (PDF)]](./slides/2-bda-learning-4.pdf)  [[Slides (PDF)]](./slides/2-bda-learning-5.pdf) 
-  - Lab 5 (Mar. 3): The learning problem (continued) [[Solution]](https://colab.research.google.com/drive/1cZQa1a-ofAFstVA7nfXjvIHnHSLSpqix?usp=sharing)
-  - Lab 6 (Mar. 4): Learning theory [[lab (PDF)]](./labs/Learning_theory.pdf)
+  - Lab 4 (Mar. 3): The learning problem (continued) [[Solution]](https://colab.research.google.com/drive/1cZQa1a-ofAFstVA7nfXjvIHnHSLSpqix?usp=sharing)
+  - Lab 5 (Mar. 4): Learning theory [[lab (PDF)]](./labs/Learning_theory.pdf)
 
 - Week 5 (Mar. 8 - Mar. 11).
   - Lecture 6 (Mar. 8): Linear models [[Slides (PDF)]](./slides/3-linear-model.pdf) 
   - Lecture 7 (Mar. 9): Gradient descent [[Slides (PDF)]](./slides/4-gradient-descent.pdf)  
-  - Lab 7 (Mar. 10): Learning theory (continued) [[Solution]](./labs/Learning_theory_solution.pdf)
+  - Lab 6 (Mar. 10): Learning theory (continued) [[Solution]](./labs/Learning_theory_solution.pdf)
 
 - Week 6 (Mar. 14 - Mar. 18).
-  - Lab 8 (Mar. 14): Linear regression [[lab (PDF)]](./labs/Linear_regression.pdf)
-  - Lab 9 (Mar. 16): Linear regression (continued)
-  - Lab 10 (Mar. 18): Linear regression (continued) [[Solution]](./labs/Linear_regression_solution.pdf)
+  - Lab 7 (Mar. 14): Linear regression [[lab (PDF)]](./labs/Linear_regression.pdf)
+  - Lab 8 (Mar. 16): Linear regression (continued)
+  - Lab 9 (Mar. 18): Linear regression (continued) [[Solution]](./labs/Linear_regression_solution.pdf)
 
 - Week 7 (Mar. 21-25).
   - Lecture 8 (Mar. 21): Neural Networks [[Slides (PDF)]](./slides/5-neural-networks/5-neural-networks.pdf)  
-  - Lab 11 (Mar. 23): Linear classification [[lab (PDF)]](./labs/Linear_classification.pdf)
+  - Lab 10 (Mar. 23): Linear classification [[lab (PDF)]](./labs/Linear_classification.pdf)
   - [Assignment I](./assignments/Assignment1.pdf)  [(Solution)](./assignment/assignment_I/assignment1-solution.ipynb)
   
 - Week 8 (Mar. 28 - Apr. 1).
   - Lecture 9 (Mar. 31): Backpropagation
-  - Lab 12 (Mar. 31):  Linear classification (continued) [[Solution]](https://colab.research.google.com/drive/1TtGIQ6rQRHte8OFK8K5r-MCbdF0cwKcW?usp=sharing)
+  - Lab 11 (Mar. 31):  Linear classification (continued) [[Solution]](https://colab.research.google.com/drive/1TtGIQ6rQRHte8OFK8K5r-MCbdF0cwKcW?usp=sharing)
   - [Assignment II](./assignment/assignment_II/Assignment_II.pdf)   [(Solution)](./assignment/assignment_II/assignment2-solution.ipynb)  [(Solution exercise 4)](./assignment/assignment_II/assignment2-ex4_sol.pdf) 
   
 - **Spring Break**
 
 - Week 9 (Apr. 18-22).
   - Lecture 10 (Apr. 19): Backpropagation (continued)
-  - Lab 13 (Apr. 22): Neural Networks
+  - Lab 12 (Apr. 22): Neural Networks
 
 - Week 10 (Apr. 25-29).
   - Lecture 11 (Apr. 25): Deep Neural Networks
-  - Lab 14 (Apr. 27): Neural Networks
+  - Lab 13 (Apr. 27): Neural Networks
 
 - Week 11 (May 2-6).
   - Lecture 12 (May 3): 
   - Lecture 13 (May 4): 
-  - Lab 15 (May 5): 
+  - Lab 14 (May 5): 
 
 - Week 12 (May 9-14).
   - Lecture 14 (May 9): 
