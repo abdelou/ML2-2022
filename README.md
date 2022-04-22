@@ -52,7 +52,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
 
 - Week 9 (Apr. 18-22).
   - Lecture 10 (Apr. 19): Backpropagation (continued)
-  - Lab 12 (Apr. 22): Neural Networks
+  - Lab 12 (Apr. 22): Neural Networks [[lab (Notebook)]](./labs/NN_lab/nn.ipynb) [[derivation (PDF)]](./labs/NN_lab/nn_derivation.pdf)
 
 - Week 10 (Apr. 25-29).
   - Lecture 11 (Apr. 25): Deep Neural Networks
