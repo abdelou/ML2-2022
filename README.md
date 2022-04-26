@@ -56,12 +56,12 @@ This is a repository to organize the teaching material for [Machine Learning II]
 
 - Week 10 (Apr. 25-29).
   - Lecture 11 (Apr. 25): Generalization for Neural Networks
-  - Lab 13 (Apr. 27): Neural Networks (continued) + PyTorch
+  - Lab 13 (Apr. 27): Neural Networks (continued) + Introduction to PyTorch
 
 - Week 11 (May 2-6).
   - Lecture 12 (May 3): 
   - Lecture 13 (May 4): 
-  - Lab 14 (May 5): 
+  - Lab 14 (May 5): PyTorch 
 
 - Week 12 (May 9-14).
   - Lecture 14 (May 9): 
