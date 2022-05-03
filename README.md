@@ -55,11 +55,11 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lab 12 (Apr. 22): Neural Networks [[lab (Notebook)]](./labs/NN_lab/nn.ipynb) [[derivation (PDF)]](./labs/NN_lab/nn_derivation.pdf)
 
 - Week 10 (Apr. 25-29).
-  - Lecture 11 (Apr. 25): Generalization for Neural Networks
+  - Lecture 11 (Apr. 25): Generalization of Neural Networks (I/II)
   - Lab 13 (Apr. 27): Neural Networks (continued) [[Solution]](./labs/NN_lab/nn_solution.ipynb) + Introduction to PyTorch [[Colab Notebook]](https://colab.research.google.com/drive/1OPP3bvSrmYLGzOckDLavC9iSUt4Ven9M?usp=sharing)
 
 - Week 11 (May 2-6).
-  - Lecture 12 (May 3): 
+  - Lecture 12 (May 3): Generalization of Neural Networks (II/II)
   - Lecture 13 (May 4): 
   - Lab 14 (May 5): PyTorch 
 
