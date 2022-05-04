@@ -68,6 +68,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lecture 14 (May 9): Reccurent Neural Networks (II/II)
   - Lab 15 (May 10): 
   - Lecture 15 (May 12): Project presentation
+  - [Assignment IV](./assignment/assignment_IV/assignment4.ipynb)
 
 
 
