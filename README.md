@@ -60,11 +60,11 @@ This is a repository to organize the teaching material for [Machine Learning II]
 
 - Week 11 (May 2-6).
   - Lecture 12 (May 3): Generalization of Neural Networks (II/II)
-  - Lecture 13 (May 4): 
-  - Lab 14 (May 5): PyTorch 
+  - Lecture 13 (May 4): Deep Neural Networks + Reccurent Neural Networks (I/II)
+  - Lab 14 (May 5): Generalization of Neural Networks (PyTorch) 
 
 - Week 12 (May 9-14).
-  - Lecture 14 (May 9): 
+  - Lecture 14 (May 9): Reccurent Neural Networks (II/II)
   - Lab 15 (May 10): 
   - Lecture 15 (May 12): Project presentation
 
