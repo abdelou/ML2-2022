@@ -41,7 +41,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
 - Week 7 (Mar. 21-25).
   - Lecture 8 (Mar. 21): Neural Networks [[Slides (PDF)]](./slides/5-neural-networks/5-neural-networks.pdf)  
   - Lab 10 (Mar. 23): Linear classification [[lab (PDF)]](./labs/Linear_classification.pdf)
-  - [Assignment I](./assignments/Assignment1.pdf)  [(Solution)](./assignment/assignment_I/assignment1-solution.ipynb)
+  - [Assignment I](./assignment/assignment_I/Assignment_I.pdf)  [(Solution)](./assignment/assignment_I/assignment1-solution.ipynb)
   
 - Week 8 (Mar. 28 - Apr. 1).
   - Lecture 9 (Mar. 31): Backpropagation
@@ -62,6 +62,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
   - Lecture 12 (May 3): Generalization of Neural Networks (II/II)
   - Lecture 13 (May 4): Deep Neural Networks + Reccurent Neural Networks (I/II)
   - Lab 14 (May 5): Generalization of Neural Networks (PyTorch) 
+  - [Assignment III](./assignment/assignment_III/assignment3.ipynb)
 
 - Week 12 (May 9-14).
   - Lecture 14 (May 9): Reccurent Neural Networks (II/II)
