@@ -61,7 +61,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
 - Week 11 (May 2-6).
   - Lecture 12 (May 3): Generalization of Neural Networks (II/II)
   - Lecture 13 (May 4): Deep Neural Networks + Reccurent Neural Networks (I/II)
-  - Lab 14 (May 5): Generalization of Neural Networks (PyTorch) [[Colab Notebook]](https://colab.research.google.com/drive/1KOM34gv6SPU_vHscSS4SpO9l3BL--xSa?usp=sharing)
+  - Lab 14 (May 5): Generalization of Neural Networks (PyTorch) [[Colab Notebook]](https://colab.research.google.com/drive/1KOM34gv6SPU_vHscSS4SpO9l3BL--xSa?usp=sharing) [[Solution]](https://colab.research.google.com/drive/1-QQGm3fciUeWpyUg1IF8sk_V8UcOKuCj?usp=sharing)
   - [Assignment III](./assignment/assignment_III/assignment3.ipynb)
 
 - Week 12 (May 9-14).
