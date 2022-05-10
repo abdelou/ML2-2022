@@ -66,7 +66,7 @@ This is a repository to organize the teaching material for [Machine Learning II]
 
 - Week 12 (May 9-14).
   - Lecture 14 (May 9): Reccurent Neural Networks (II/II)
-  - Lab 15 (May 10): 
+  - Lab 15 (May 10): Recurrent Neural Networks [[Colab Notebook]](https://colab.research.google.com/drive/1DzPtQ5wEb9X2ctwWaVYactNXq3pp0crm?usp=sharing)
   - Lecture 15 (May 12): Project presentation
   - [Assignment IV](./assignment/assignment_IV/assignment4.ipynb)
 
